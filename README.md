@@ -1,5 +1,5 @@
-# Hannes Filler
+# My Name
 ***
 ## Overview
 	
-Software Engineering student studying at Western University, currently working at [Big Viking Games](http://www.bigvikinggames.com).
+I am a student currently at Western University making a site to learn about github!
