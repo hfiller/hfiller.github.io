@@ -22,13 +22,13 @@ Lines are pretty Cool
 
 1. Bop it
 2. Twist it
-3. Turn it
-4. Pull it
+2. Turn it
+1. Pull it
 
 
 #### Unordered lists are Cooler:   
 
-- Buy it
+* Buy it
 - Use it
 - Break it
 - Fix it
