@@ -9,4 +9,4 @@ I am a student currently at Western University making a site to learn about gith
 
 This project is distributed for the purpose of educating more people about github.
 
-Origionally created by (Adam Bell)[b3ll.github.com]
+Origionally created by [Adam Bell](b3ll.github.com)
