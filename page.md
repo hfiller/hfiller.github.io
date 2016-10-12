@@ -6,11 +6,13 @@
 
 #### Even Cooler header
 
-**Cool link:** [cool](http://www.cool.com/)
+##### The Coolest Header
+
+**Cool link:** [cool](http://www.xkcd.com/)
 
 #### Cool picture
 
-![coolphoto](../images/hellacool.jpg)
+![coolphoto](http://imgs.xkcd.com/comics/tasks.png)
 
 * * *
 Lines are pretty Cool
@@ -32,12 +34,10 @@ Lines are pretty Cool
 - Fix it
 - Trash it
 - Change it 
-- Mail
 - Upgrade it
 
 #### Cool code
-
-	int main() {
-		printf("no u");
-	}
+```
+console.log("test");
+```
 	
